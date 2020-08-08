@@ -3,7 +3,11 @@ import { StyleSheet } from 'react-native';
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#f0f0f7'
+        backgroundColor: '#F0F0F7'   
+    }, 
+
+    teatherList: {
+        marginTop: -40
     }
 });
 
